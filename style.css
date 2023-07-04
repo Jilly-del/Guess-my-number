@@ -117,9 +117,3 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
-@media (max-width: 600px) {
-  input[type='Number'] {
-    width: 200px;
-    height: 100px;
-  }
-}
